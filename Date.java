@@ -14,7 +14,7 @@ class Student {
 }
 public class Date {
     public static void main(String[] args) {
-        Student s1= new Student("Pawan",20,"03-02-2005");
+        Student s1= new Student("Lalu",20,"03-02-2005");
         s1.display();
     }
 }
